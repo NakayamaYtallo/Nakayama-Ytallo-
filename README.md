@@ -1,10 +1,10 @@
 Ytallo Nakayama
 
-Estudante de programação em busca de oportunidades na área de desenvolvimento de software. Aprendo todos os dias e registro minha evolução aqui, um commit por vez.
+Estudante de programação em busca de oportunidades na área de desenvolvimento back-end e banco de dados. Aprendo todos os dias e registro minha evolução aqui, um commit por vez.
 
 🎯 Objetivo profissional
 
-Atuar como desenvolvedor de software, com foco em programação e banco de dados, crescendo por meio de projetos práticos, estudo contínuo e experiência real de mercado.
+Atuar como desenvolvedor back-end e na área de banco de dados, crescendo por meio de projetos práticos, estudo contínuo e experiência real de mercado.
 
 💻 Tecnologias e ferramentas
 Área	Tecnologias
