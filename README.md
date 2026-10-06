@@ -1,18 +1,25 @@
-Olá, eu sou o Ytallo 👋
+Ytallo Nakayama
 
-Estudante de programação, aprendendo um pouco todo dia e construindo meu portfólio um commit por vez.
+Estudante de programação em busca de oportunidades na área de desenvolvimento de software. Aprendo todos os dias e registro minha evolução aqui, um commit por vez.
 
-💻 Tecnologias
-C (desenvolvendo no Dev-C++)
-MySQL
-HTML
-CSS
+🎯 Objetivo profissional
+
+Atuar como desenvolvedor de software, com foco em programação e banco de dados, crescendo por meio de projetos práticos, estudo contínuo e experiência real de mercado.
+
+💻 Tecnologias e ferramentas
+Área	Tecnologias
+Linguagens	C, HTML, CSS
+Banco de dados	MySQL
+Ferramentas	Dev-C++, Git e GitHub
 📂 Projetos
-exercicios-c: exercícios e programas em linguagem C
-🎯 O que estou estudando
-Lógica de programação e linguagem C
-Banco de dados com MySQL
-Desenvolvimento web com HTML e CSS
+exercicios-c: exercícios e programas em linguagem C, organizados por assunto
+📚 Em desenvolvimento
+Aprofundamento em lógica de programação e linguagem C
+Modelagem e consultas em bancos de dados MySQL
+Criação de páginas web com HTML e CSS
+Boas práticas de versionamento com Git e GitHub
 📫 Contato
 
-Fique à vontade para olhar meus repositórios e acompanhar minha evolução por aqui.
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução.
+
+nakayamaytallo@gmail.com
